@@ -144,6 +144,8 @@
 			dependencies = (
 			);
 			name = SampleSegmentedControl;
+			packageProductDependencies = (
+			);
 			productName = SampleSegmentedControl;
 			productReference = C6C34AE126C7AEAD00A28523 /* SampleSegmentedControl.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +217,8 @@
 				Base,
 			);
 			mainGroup = C6C34AD826C7AEAD00A28523;
+			packageReferences = (
+			);
 			productRefGroup = C6C34AE226C7AEAD00A28523 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -439,6 +443,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 64GN3PDULA;
 				INFOPLIST_FILE = SampleSegmentedControl/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -458,6 +463,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 64GN3PDULA;
 				INFOPLIST_FILE = SampleSegmentedControl/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
